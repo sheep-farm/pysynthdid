@@ -17,7 +17,7 @@ https://medium.com/@masa_asami/causal-inference-using-synthetic-difference-in-di
 ## Installation:
 
 ```
-$ pip install git+https://github.com/MasaAsami/pysynthdid
+$ pip install git+https://github.com/sheep-farm/pysynthdid
 ```
 
 This package is still under development. I plan to register with `pypi` after the following specifications are met.
