@@ -11,7 +11,8 @@ install_requires = [
     'matplotlib',
     'numpy',
     'tqdm',
-    'sklearn',
+    # 'sklearn',
+    'scikit_learn',
     'scipy',
     'toolz',
     'bayesian-optimization >= 1.1.0'
